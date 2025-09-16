@@ -1,0 +1,18 @@
+# Basic Foods Database
+TYPE;ID;Name;Keywords;Calories;ExtraInfo
+B;B1;Apple;fruit|snack;95.0;fiber=4:g|vitaminC=5:mg
+B;B2;Banana;fruit|snack;105.0;potassium=422:mg|fiber=3:g|vitaminB6=0.4:mg
+B;B3;Orange;fruit|citrus;62.0;vitaminC=70:mg|fiber=3:g
+B;B4;Broccoli;vegetable|green;55.0;vitaminC=81:mg|fiber=5:g|iron=1:mg
+B;B5;Carrot;vegetable|root;25.0;vitaminA=835:µg|fiber=2.8:g
+B;B6;Spinach;vegetable|leafy;23.0;iron=2.7:mg|vitaminK=483:µg|calcium=99:mg
+B;B7;Chicken Breast;meat|protein;165.0;protein=31:g|fat=3.6:g
+B;B8;Salmon;fish|protein;208.0;omega3=1.8:g|protein=20:g
+B;B9;Egg;protein|breakfast;78.0;protein=6:g|cholesterol=186:mg
+B;B10;Almonds;nuts|snack;164.0;fat=14:g|protein=6:g|fiber=3.5:g
+B;B11;Oatmeal;grain|breakfast;150.0;fiber=4:g|protein=5:g|iron=1.7:mg
+B;B12;Brown Rice;grain|side;216.0;fiber=3.5:g|protein=5:g
+B;B13;Whole Wheat Bread;grain|bread;110.0;fiber=2:g|protein=4:g
+B;B14;Milk;dairy|drink;102.0;calcium=300:mg|protein=8:g
+B;B15;Yogurt;dairy|snack;59.0;protein=10:g|calcium=110:mg
+B;B16;Olive Oil;fat|cooking;119.0;fat=13.5:g|vitaminE=1.9:mg

@@ -1,0 +1,8 @@
+# Daily Log Database
+Date: 07-04-2025
+1) FoodID: B2, Name: Banana, Servings: 6.0
+2) FoodID: B1, Name: Apple, Servings: 10.0
+
+Date: 08-04-2025
+1) FoodID: C1, Name: edc, Servings: 10.0
+
